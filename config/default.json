@@ -1,0 +1,7 @@
+{
+   "jwtPrivateKey": "sensibull#PrivateKey",
+   "dbConf": {
+      "db": "sensibull",
+      "host": "localhost"
+   }
+}

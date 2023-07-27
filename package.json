@@ -1,0 +1,30 @@
+{
+  "name": "sensibull-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.6",
+    "cron": "^2.4.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "joi-objectid": "^3.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "moment-timezone": "^0.5.33",
+    "mongoose": "^5.13.2",
+    "nodemon": "^2.0.9",
+    "pug": "^3.0.2",
+    "uuid": "^9.0.0"
+  }
+}
